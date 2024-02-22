@@ -9,7 +9,7 @@
 <h3 align="center"> Welcome to my GitHub! 🤝 </h3> 
 <p align="center"> Sou novato neste mundo de desenvolvedores, espero ajudar e também receber ajuda de todos desta comunidade!!</p>
 
-- :link: 24 anos;
+- :link: 26 anos;
 - :link: Residente em São Paulo - Brasil;
 - :link: Estudante de Sistemas da Informação em [Uninove](https://www.uninove.br/);
 
