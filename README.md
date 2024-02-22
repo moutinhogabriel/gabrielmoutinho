@@ -11,8 +11,8 @@
 
 - :link: 26 anos;
 - :link: Residente em São Paulo - Brasil;
-- :link: Estudante de Sistemas da Informação em [Uninove](https://www.uninove.br/);
-
+- :link: Graduado em Sistemas da Informação em [Uninove](https://www.uninove.br/);
+- :link: Estudando pós graduação em Inteligência Artificial em [Uninove](https://www.uninove.br/);
 ---
 
 <h3> 🛠 Languages & Tools </h3>
